@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/face_detector_react_app/static/css/main.6ab9f855.css",
+    "main.js": "/face_detector_react_app/static/js/main.0c52dfbe.js",
+    "static/js/787.1490a619.chunk.js": "/face_detector_react_app/static/js/787.1490a619.chunk.js",
+    "static/media/axios.cjs": "/face_detector_react_app/static/media/axios.e7d77f0967a69d31d7fc.cjs",
+    "static/media/logo.png": "/face_detector_react_app/static/media/logo.38bd33988099c91a317e.png",
+    "index.html": "/face_detector_react_app/index.html",
+    "main.6ab9f855.css.map": "/face_detector_react_app/static/css/main.6ab9f855.css.map",
+    "main.0c52dfbe.js.map": "/face_detector_react_app/static/js/main.0c52dfbe.js.map",
+    "787.1490a619.chunk.js.map": "/face_detector_react_app/static/js/787.1490a619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab9f855.css",
+    "static/js/main.0c52dfbe.js"
+  ]
+}
